@@ -4,9 +4,9 @@ import Example from "@/components/landing/Example";
 
 import Guide from "@/components/landing/Guide";
 import Hero from "@/components/landing/Hero";
-import { useEffect } from "react"
-import { useRouter } from "next/navigation"
-import ServicesOffered from "@/components/landing/ServicesOffered";
+  import { useEffect } from "react"
+  import { useRouter } from "next/navigation"
+  import ServicesOffered from "@/components/landing/ServicesOffered";
 
 
 
